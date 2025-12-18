@@ -13,7 +13,7 @@ This repository contains the solutions for Assignment 1, covering the following 
 5.  **BankManagement.java**: A console-based banking system with exception handling.
 
 ## How to Run
-Compile and run any file from the `assignment1` folder:
+Compile and run any file from the `src` folder:
 ```bash
 javac src/Filename.java
 java src/Filename
