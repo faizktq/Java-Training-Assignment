@@ -1,4 +1,4 @@
-# HCL Java Assignment 1
+# Java Training Assignment 1
 
 **Submission Date:** 19/12/2025  
 **Topic:** Automation Testing: Selenium with Java  
