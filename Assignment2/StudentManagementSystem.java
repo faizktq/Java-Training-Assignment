@@ -34,7 +34,7 @@ class Student {
     }
 }
 
-//Controller class implementing the logic using ArrayList and Vecto
+//Controller class implementing the logic using ArrayList and Vector
 class StudentManager implements StudentOperations {
     // Demonstrating the use of List interface, ArrayList, and Vector
     private List<Student> studentList = new ArrayList<>(); 
